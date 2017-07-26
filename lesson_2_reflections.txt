@@ -1,0 +1,11 @@
+What happens when ou initialize a repository? Why do you need to do it?
+
+Initializing a git repository creates it. 
+It doesn't have anything in it at first, but this is the beginning of a great and beautiful journey. 
+Git repository will help orgaize your program into chuncks. 
+That way if you ever mess up (like I almost did with a project I am making without git) than the previous working commit will be right there for you.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It offers the ability to seperate the files that you will be working on from the bulk of the files. Depending on the project, you could be dealing with many files. Seperating them using the staging area gives a clearer idea on what you will be specifically working on.
