@@ -1,1 +1,30 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+When you want to save a working project. This is useful for collaboration efforts and feedback on your project.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Pulling manually will help with possible confusion on what is saved. If you are working locally, pulling files wouldnt help you stay up to date and may cause problems in the future.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks allow you to essentially clone from someone elses repository, but still maintain credit to the original creator. Therefore you can make changes to this repository without changing the original, yet still give them credit.
+Clones do exaclty that, clone a repository. 
+Branches create a new line seperate than that of the 'master'. What a branch allows you to do is create changes/experiments to a project without messing up the original.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+While you are offline, you may edit files and at the same time someone you are collaborating with could edit a file on github. By having a copy of the last know state of a project locally stored, you will know exacly where you did changes and where you can merge the changes on github.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Using collaboration could easily split the workload of project for more than one person. This would make it easier to get a project done and work together to fix bugs or difficult areas. What might be harder would be not understanding what has happened to your code when someone updated. However, good communication could easlily rectify such a situation.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+The master seems to be considered the working version of a project. By using branches, it helps maintain the working aspect of the master, while considering other options with the branches. Though working with the master specifically would be a lot smoother, if someone was to mess up or code is unexplained, then it would be harder to sort out. Especially because in Githib, the master isn't updataed all the time as a local would be.
